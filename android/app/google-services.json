@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300536768810",
+    "project_id": "tayal-fintech",
+    "storage_bucket": "tayal-fintech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300536768810:android:010863278e12912b0b1653",
+        "android_client_info": {
+          "package_name": "com.glen.glenLoyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300536768810-l78dhfpiulbb2eccm8h48oktor7e5j89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsZr4uC5l2NPr1q_AhM1GBh6PzqkkZ5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300536768810-l78dhfpiulbb2eccm8h48oktor7e5j89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
